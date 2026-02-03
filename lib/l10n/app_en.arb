@@ -1,0 +1,103 @@
+{
+  "@@locale": "en",
+  "appName": "Professional App",
+  "@appName": {
+    "description": "Application name"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home screen title"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile screen title"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings screen title"
+  },
+  "details": "Details",
+  "@details": {
+    "description": "Details screen title"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "welcome": "Welcome",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "welcomeBack": "Welcome Back!",
+  "@welcomeBack": {
+    "description": "Welcome back message"
+  },
+  "goToHome": "Go to Home",
+  "@goToHome": {
+    "description": "Go to home button"
+  },
+  "goToDetails": "Go to Details",
+  "@goToDetails": {
+    "description": "Go to details button"
+  },
+  "goToProfile": "Go to Profile",
+  "@goToProfile": {
+    "description": "Go to profile button"
+  },
+  "detailsScreen": "Details Screen",
+  "@detailsScreen": {
+    "description": "Details screen content"
+  },
+  "profileScreen": "Profile Screen",
+  "@profileScreen": {
+    "description": "Profile screen content"
+  },
+  "settingsScreen": "Settings Screen",
+  "@settingsScreen": {
+    "description": "Settings screen content"
+  },
+  "pageNotFound": "Page not found",
+  "@pageNotFound": {
+    "description": "404 error message"
+  },
+  "errorOccurred": "An error occurred",
+  "@errorOccurred": {
+    "description": "Generic error message"
+  },
+  "noInternetConnection": "No internet connection",
+  "@noInternetConnection": {
+    "description": "No internet error message"
+  },
+  "serverError": "Server error. Please try again later",
+  "@serverError": {
+    "description": "Server error message"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+  "changeLanguage": "Change Language",
+  "@changeLanguage": {
+    "description": "Change language option"
+  },
+  "english": "English",
+  "@english": {
+    "description": "English language"
+  },
+  "nepali": "Nepali",
+  "@nepali": {
+    "description": "Nepali language"
+  }
+}
