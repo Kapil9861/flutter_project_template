@@ -12,7 +12,9 @@ import 'package:pigeon/pigeon.dart';
     // gobjectOptions: GObjectOptions(),
     kotlinOut:
         'android/app/src/main/kotlin/com/example/pigeon_features/feature/Messages.g.kt',
-    kotlinOptions: KotlinOptions(),
+    kotlinOptions: KotlinOptions(
+      package: 'com.example.pigeon_features.feature',
+    ),
     // javaOut: 'android/app/src/main/java/io/flutter/plugins/Messages.java',
     // javaOptions: JavaOptions(),
     swiftOut: 'ios/Runner/Messages.g.swift',
